@@ -4,7 +4,7 @@ A full-stack real estate website with a cinematic "Noir Bombay" theme, featuring
 
 ## 🌐 Live Deployment
 
-- **Frontend:** [https://realestate-ashy-xi.vercel.app](https://realestate-ashy-xi.vercel.app)
+- **Frontend:** [https://real-estate-mega-plex.vercel.app](https://real-estate-mega-plex.vercel.app)
 - **Backend:** [https://realestatemegaplex.onrender.com](https://realestatemegaplex.onrender.com)
 
 ---
@@ -193,7 +193,7 @@ This project demonstrates:
 - ✅ Interactive features
 - ✅ Content management system
 
-**Live Demo**: [https://realestate-ashy-xi.vercel.app](https://realestate-ashy-xi.vercel.app)
+**Live Demo**: [https://real-estate-mega-plex.vercel.app](https://real-estate-mega-plex.vercel.app)
 
 ---
 
