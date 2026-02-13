@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react';
 import { FaBars, FaTimes } from 'react-icons/fa';
+import { Link } from 'react-router-dom';
 
 export default function Navbar() {
   const [open, setOpen] = useState(false);
@@ -31,6 +32,7 @@ export default function Navbar() {
         <li><a onClick={() => scrollTo('connectivity')}>Location</a></li>
         <li><a onClick={() => scrollTo('developer')}>Developer</a></li>
         <li><a onClick={() => scrollTo('contact')}>Contact</a></li>
+        <li><Link to="/admin" onClick={() => setOpen(false)}>Admin</Link></li>
       </ul>
       <button className="navbar-enquiry" onClick={() => scrollTo('contact')}>Enquire</button>
       <button className="navbar-hamburger" onClick={() => setOpen(!open)}>
